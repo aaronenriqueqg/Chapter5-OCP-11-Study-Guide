@@ -1,0 +1,7 @@
+public class Cadena{
+public static void main(String[] args){
+  String perro= "panda";
+ System.out.println(perro.length());
+
+}
+}
